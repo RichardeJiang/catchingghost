@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="enter_num_of_players">Number of players</string>
+    <string name="welcome_start">Start</string>
+    <string name="hint_number_of_players">Enter the number of players</string>
+    <string name="welcome_enter">Enter Number</string>
 </resources>

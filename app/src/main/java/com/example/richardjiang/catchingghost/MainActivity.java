@@ -8,6 +8,9 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
+    //main page:
+    //two buttons: quick play & settings
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
